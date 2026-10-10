@@ -1,0 +1,6 @@
+{
+  "name": "UNLOCKED — AI Career Flight Simulator",
+  "description": "Interactive career flight simulator with dynamic skill dependency graphs, SkillProof evidence assessment, Career Multiverse what-if simulations, employer Reality Radar, and adaptive replanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
